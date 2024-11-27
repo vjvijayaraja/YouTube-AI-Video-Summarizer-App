@@ -77,4 +77,3 @@ To use the YouTube AI Video Summarizer, follow these steps:
 
 ## Credits
 Created by Vijay Shrivarshan Vijayaraja
-Powered by Facebook's BART Large Model
