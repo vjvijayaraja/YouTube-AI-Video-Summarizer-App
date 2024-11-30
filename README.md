@@ -6,6 +6,7 @@ Click here for live demo : https://drive.google.com/file/d/1WryCgvnBL_dzH4BYgYOK
 ## Table of Contents
 * [General Info](#general-information)
 * [Features](#features)
+* [Tools and Technologies](#tools-and-technologies)
 * [Setup](#setup)
 * [Usage](#usage)
 * [Credits](#credits)
@@ -14,7 +15,6 @@ Click here for live demo : https://drive.google.com/file/d/1WryCgvnBL_dzH4BYgYOK
 ## General Information
 This project provides an efficient solution for extracting and summarizing content from YouTube videos. Instead of watching entire videos to understand their content, this tool automatically generates concise summaries using advanced AI technology. It features a modern, dark-themed interface with glass morphism effects for an enhanced user experience.
 
-![Screenshot 2024-11-29 at 10 30 30 PM](https://github.com/user-attachments/assets/7d76e069-52fd-45c5-8e6f-7b74222678fb)
 
 ## Features
 * AI-Powered Summarization: Utilizes Facebook's BART Large Model for accurate content summarization
@@ -24,6 +24,23 @@ This project provides an efficient solution for extracting and summarizing conte
 * Error Handling: Provides clear error messages for invalid URLs or unavailable transcripts
 * Responsive Design: Adapts to different screen sizes for optimal viewing
 * User-Friendly Interface: Simple "paste and click" functionality
+
+
+## Tools and Technologies
+* **Frontend Framework:**
+  - Streamlit (Python web framework)
+  - Custom CSS for styling and glass morphism effects
+
+* **AI/ML Technologies:**
+  - Facebook's BART Large Model (for text summarization)
+  - Hugging Face Transformers library
+  - PyTorch
+
+* **APIs and Libraries:**
+  - YouTube Transcript API (for extracting video transcripts)
+  - BeautifulSoup4 (for web scraping)
+  - Requests (for HTTP requests)
+  - SentencePiece (for text tokenization)
 
 
 ## Setup
