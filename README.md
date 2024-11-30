@@ -93,7 +93,12 @@ To use the YouTube AI Video Summarizer, follow these steps:
 * Some videos might not have available transcripts
 * The app works best with English language videos
 
+## Credits
 
+Created by Vijay Shrivarshan Vijayaraja  
+Powered by Microsoft DeBERTa v3
+
+---
 
 <div align="center">
 Made by Vijay Shrivarshan Vijayaraja
