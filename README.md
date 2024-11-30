@@ -96,3 +96,8 @@ To use the YouTube AI Video Summarizer, follow these steps:
 
 ## Credits
 Created by Vijay Shrivarshan Vijayaraja
+
+<div align="center">
+Made by Vijay Shrivarshan Vijayaraja
+</div>
+
