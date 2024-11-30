@@ -94,6 +94,7 @@ To use the YouTube AI Video Summarizer, follow these steps:
 * The app works best with English language videos
 
 
+
 <div align="center">
 Made by Vijay Shrivarshan Vijayaraja
 </div>
