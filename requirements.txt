@@ -1,0 +1,7 @@
+streamlit
+youtube_transcript_api
+beautifulsoup4
+requests
+transformers
+torch
+sentencepiece
